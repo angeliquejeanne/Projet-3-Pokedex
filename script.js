@@ -1,11 +1,8 @@
-// let allPokemon = [];
-// let tableauFin = [];
+
 
 // Input Animate
 const searchInput = document.querySelector('.searchPokemon input');
 
-// const listePoke = document.querySelector('.pokemonList');
-// const chargement = document.querySelector('.loader');
 
 
 
