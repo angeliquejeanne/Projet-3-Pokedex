@@ -6,13 +6,13 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: #333;
-    color: #333;
+    background: black;
+    color: black;
 }
 h1 {
     text-align: center;
     padding: 25px 0;
-    color: #f1f1f1;
+    color: snow;
 }
 .searchPokemon {
     max-width: 700px;
@@ -36,7 +36,7 @@ h1 {
 
 .searchPokemon label {
     position: absolute;
-    color: #333;
+    color: black;
     top: 50%;
     transform: translateY(-50%);
     padding-left: 8px;
@@ -54,7 +54,7 @@ h1 {
 .searchPokemon.active-input label {
     top: -15px;
     padding-left: 5px;
-    color: #f1f1f1;
+    color: snow;
 }
 
 
@@ -109,7 +109,7 @@ ul {
     width: 20px;
     height: 20px;
     border-radius: 50%;
-    background: #f1f1f1;
+    background: snow;
     animation: up 0.3s alternate infinite;
 }
 .dot:nth-child(1) {
