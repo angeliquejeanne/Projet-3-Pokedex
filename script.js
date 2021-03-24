@@ -96,9 +96,7 @@ function createCard(arr){
         carte.appendChild(idCarte);
 
         pokemonList.appendChild(carte);
-
     }
-
 }
 
 // Scroll Infini
