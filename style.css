@@ -14,6 +14,7 @@ h1 {
     padding: 25px 0;
     color: snow;
 }
+
 .searchPokemon {
     max-width: 700px;
     width: 70%;
@@ -74,7 +75,7 @@ ul {
     flex-wrap: wrap;
 }
 
-.pokemonList li {
+.listPokemon li {
     width: 250px;
     height: auto;
     padding: 15px;
@@ -84,10 +85,10 @@ ul {
     align-items: center;
     flex-direction: column;
 }
-.pokemonList h5 {
+.listPokemon h5 {
     font-size: 19px;
 }
-.pokemonList p {
+.listPokemon p {
     font-size: 18px;
 }
 
